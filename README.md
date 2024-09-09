@@ -3,4 +3,4 @@
 
     
 * [Variable](Variable.py)
-* [String](explore.py/String.py)
+* [String](String.py)
