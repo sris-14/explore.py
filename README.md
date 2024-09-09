@@ -2,5 +2,5 @@
 `tutor` :    `Bro code`   
 
     
-* [Variable](Python_Scratch\Variable.py)
-* [String](Python_Scratch\String.py)
+* [Variable](D\Python_Scratch\Variable.py)
+* [String](D\Python_Scratch\String.py)
