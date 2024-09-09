@@ -1,3 +1,2 @@
 # explore.py    
-`tutor` :     
-   `Bro code`
+`tutor` :    `Bro code`
