@@ -1,2 +1,3 @@
 # explore.py    
-`tutor` :    `Bro code`
+`tutor` :    `Bro code`   
+* [Variable](explore.py/variable “variable”)
