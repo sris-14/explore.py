@@ -2,5 +2,5 @@
 `tutor` :    `Bro code`   
 
     
-* [Variable](explore.py/Variable.py)
+* [Variable](Variable.py)
 * [String](explore.py/String.py)
