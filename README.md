@@ -1,3 +1,7 @@
 # explore.py    
 `tutor` :    `Bro code`   
-* [Variable](Python_Sratch/Variable.py)
+
+
+
+* [Variable](Variable.py)
+* [String](String.py)
