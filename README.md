@@ -5,3 +5,4 @@
 
 * [Variable](Variable.py)
 * [String](String.py)
+* [TypeCasting](TypeCasting.py)
